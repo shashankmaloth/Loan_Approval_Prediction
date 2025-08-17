@@ -33,5 +33,11 @@ cd Loan_Approval_Prediction
 
 
 ---
+2️⃣ Install Dependencies
 
-Do you want me to also include a **requirements.txt** file (auto-generated based on typical ML libraries) so that it’s easier for others to install dependencies?
+Make sure you have Python 3.x installed, then install the required libraries:
+
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+3️⃣ Run the Script
+python Loan_Prediction.py
