@@ -6,10 +6,6 @@ It uses classification algorithms trained on historical loan data to assist fina
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 📊 Dataset
 The dataset (`loan-predictionUC.csv.xlsx`) contains applicant and loan-related information such as:
 
